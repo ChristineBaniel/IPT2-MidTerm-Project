@@ -3,4 +3,4 @@ A midterm project showcasing a web-based application using PHP and MySQL.
 Members:
 Baniel, Christine E.
 Demetrial,Chariza Mae P.
-
+Fulgosino, Lian F. 
